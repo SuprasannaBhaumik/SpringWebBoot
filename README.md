@@ -1,4 +1,4 @@
-##Spring boot application with Docker image
+**Spring boot application with Docker image**
 
 Basic requisite is to create a Dockerfile in the root of the application
 
