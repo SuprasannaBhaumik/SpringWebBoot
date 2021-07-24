@@ -18,7 +18,7 @@ EXPOSE 8080
 ENTRYPOINT ["java", "-jar", "SpringWebBoot-0.0.1-SNAPSHOT.jar"]
 ```
 
->To build docker image issue the below command:
+To build docker image issue the below command:
 >
 > 
 > docker build -t <tagname> .
